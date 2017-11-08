@@ -16,3 +16,7 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+if (1 == 0) {
+    console.log("Hola");
+}
